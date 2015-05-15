@@ -1,0 +1,5 @@
+name: LevelingTools
+main: me.migsect.LevelingTools.LevelingTools
+version: 0.0
+description: Allows tools to gain experience and be upgraded using that experience.
+author: Migsect
